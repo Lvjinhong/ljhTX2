@@ -1,0 +1,16 @@
+#阿里云语音系统
+Aliyun:
+  APPKEY: qAYt7PqWjVCVAbqd
+  AccessKey ID: LTAI5tNpspdh8GwGYrzXfeTE
+  AccessKey Secret: FgFkslKoDpBMxqmtUcNVYGCK12e1FW
+  TOKEN: aa694d8b76b744dc9dc1952f88e7572f
+#百度导航
+BAIDU:
+  AK: WGgafidyYSbZsbPYlcB2swsWZXaOGgLc
+OPENAI:
+  API_KEY: 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
+  ORG: org-6nd98iXMz5Q11v3CgJr30Gy7
+#初始化提示词
+PROMOT:
+  #助盲
+  BLIND: 假如你现在是一个助盲机器人，如果下面的语音输入语法有问题，请自行根据场景理解，并直接给出回答，不要出现关于你身份的多余信息：
