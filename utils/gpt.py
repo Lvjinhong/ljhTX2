@@ -1,8 +1,6 @@
-import os
 import random
 
 import openai
-import playsound
 import yaml
 
 from utils.tts import TTS

@@ -1,15 +1,11 @@
-import os
 from time import sleep
 
 import speech_recognition as sr
-import yaml
-import pickle as pk
 import  re
 from utils.gpt import GPT
 from utils.tts import TTS
 from utils.navigation import Navigation
-import json
-from utils import tokenInit as tI
+
 # tI.init()
 
 # with open('str.pkl','wb') as f:

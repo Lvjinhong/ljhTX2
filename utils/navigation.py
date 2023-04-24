@@ -1,5 +1,4 @@
 import json
-import re
 
 import requests as rq
 import yaml

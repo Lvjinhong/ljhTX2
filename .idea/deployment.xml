@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="ljh@tx2" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
     <option name="confirmBeforeUploading" value="false" />
     <serverData>
-      <paths name="inspur@HPC_ForAI">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="inspur@Multi">
         <serverdata>
           <mappings>
@@ -24,24 +17,18 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="ljh@VMware">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ljh" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="ljh@tx2">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_809" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="ljh@tx2 (2)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/ljh/data/ljhPlus" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="ljh@tx2 (3)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/ljh/data/ljhPlus" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/ljh/Data/project/ljhPlus" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/ljh/Data/project" local="$PROJECT_DIR$/../../../TX2" web="" />
           </mappings>
         </serverdata>
       </paths>
